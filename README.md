@@ -8,5 +8,6 @@ Interface:
 - void processText(const string& t, set<int>& found)
 
 Sample compilation:
-```g++ common.cpp ../Trie/Trie.cpp -o common
+```
+g++ common.cpp ../Trie/Trie.cpp -o common
 ```
